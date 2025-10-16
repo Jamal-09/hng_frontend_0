@@ -18,7 +18,7 @@ A simple, accessible, and responsive profile card built with **HTML**, **CSS**, 
 
 ## 🔗 Live Demo
 
-[https://your-netlify-site.netlify.app](https://your-netlify-site.netlify.app)
+[https://hng-frontend-profile.netlify.app/](https://hng-frontend-profile.netlify.app/)
 
 ## 📁 How to Run
 
